@@ -1,1 +1,3 @@
-django.zip filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:54eea7c31168512d605505b190fc6e5353bca631e3b306b282a61511dbd42868
+size 211
