@@ -1,1 +1,1 @@
-# Full-Stack-MERN-Project
+# Full-Stack-MERN-Blog-Project
